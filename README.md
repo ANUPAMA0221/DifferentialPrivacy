@@ -1,1 +1,1 @@
-This repo consists of our work regarding differential privacy regarding mini-project(VI semester)
+This repo consists of our work on differential privacy regarding mini-project(VI semester)
