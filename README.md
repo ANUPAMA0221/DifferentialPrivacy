@@ -1,1 +1,1 @@
-# DifferentialPrivacy
+This repo consists of our work regarding differential privacy regarding mini-project(VI semester)
